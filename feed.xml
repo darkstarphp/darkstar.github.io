@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>publidemo</title>
+    <link href="https://darkstarphp.github.io/feed.xml" rel="self" />
+    <link href="https://darkstarphp.github.io" />
+    <updated>2020-12-03T11:57:19+01:00</updated>
+    <author>
+        <name>mikka</name>
+    </author>
+    <id>https://darkstarphp.github.io</id>
+
+    <entry>
+        <title>post title 2</title>
+        <author>
+            <name>mikka</name>
+        </author>
+        <link href="https://darkstarphp.github.io/post-title-2/"/>
+        <id>https://darkstarphp.github.io/post-title-2/</id>
+
+        <updated>2020-12-03T11:57:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                     sadf etretert tertertre rtretert retert erwtret 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="sadf">
+      sadf
+    </h2>
+
+  <p>
+    etretert
+  </p>
+
+  <p class="msg msg--highlight">
+    tertertre rtretert
+  </p>
+
+  <p>
+    retert
+  </p>
+
+  <p>
+    erwtret
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post title</title>
+        <author>
+            <name>mikka</name>
+        </author>
+        <link href="https://darkstarphp.github.io/post-title/"/>
+        <id>https://darkstarphp.github.io/post-title/</id>
+
+        <updated>2020-12-03T11:56:02+01:00</updated>
+            <summary>
+                <![CDATA[
+                    post text 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>post text </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

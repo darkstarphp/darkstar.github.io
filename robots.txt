@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://darkstarphp.github.io/sitemap.xml
